@@ -1,8 +1,5 @@
-import requests
 import json
-from fastapi import FastAPI, BackgroundTasks
-import time
-from contextlib import asynccontextmanager
+from fastapi import FastAPI
 import aiohttp
 import asyncio
 from fastapi_utilities import repeat_every
@@ -28,7 +25,7 @@ async def get_character_profile(session, character_name):
     return None
     
 def get_spec_score(profile, spec, season=4):
-    with open('specs.json') as spec_map_file:
+    with open('data/specs.json') as spec_map_file:
         spec_map = json.load(spec_map_file)
     spec_id = spec_map[spec]
     if profile:
