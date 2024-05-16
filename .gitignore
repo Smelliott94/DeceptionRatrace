@@ -158,3 +158,14 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+.DS_Store
+ui/node_modules
+ui/build
+ui/.svelte-kit
+ui/package
+ui/.env
+ui/.env.*
+ui/!.env.example
+ui/vite.config.js.timestamp-*
+ui/vite.config.ts.timestamp-*
