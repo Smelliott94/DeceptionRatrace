@@ -8,7 +8,7 @@ let players = [];
 
 onMount(async () => {
     try {
-    const response = await fetch('http://localhost:3000/report');
+    const response = await fetch('https://deceptionratrace.onrender.com/report');
     if (!response.ok) {
         throw new Error('Failed to fetch data');
     }
