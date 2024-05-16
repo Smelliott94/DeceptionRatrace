@@ -3,10 +3,18 @@ from fastapi import FastAPI
 import aiohttp
 import asyncio
 from fastapi_utilities import repeat_every
+from fastapi.middleware.cors import CORSMiddleware
 
 baseurl = "https://raider.io/api/v1/characters/profile?region=eu"
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://deceptionratrace-ui.onrender.com/"],  # You can replace "*" with a list of allowed origins
+    allow_credentials=True,
+    allow_methods=["GET", "POST", "PUT", "DELETE"],
+    allow_headers=["*"],
+)
 
 with open('data/rats.json') as characters_file:
     report = json.load(characters_file)
