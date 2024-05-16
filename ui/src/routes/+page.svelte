@@ -51,6 +51,9 @@ onMount(async () => {
 </table>
 
 <style>
+* {
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+}
 table {
     width: 100%;
     border-collapse: collapse;
