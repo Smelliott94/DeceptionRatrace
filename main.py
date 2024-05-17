@@ -42,7 +42,7 @@ def get_spec_score(profile, spec, season=4):
                 return season_data['scores'][spec_id]
     return None
 
-async def refresh_scores(period_mins=10):
+async def refresh_scores():
     global report
     async with aiohttp.ClientSession() as session:
         while True:
@@ -56,7 +56,6 @@ async def refresh_scores(period_mins=10):
                     score = get_spec_score(profile, character['Rolled Spec'])
                     character['Score'] = score
             print(json.dumps(report, indent=2))
-            await asyncio.sleep(period_mins * 60)
 
 @app.on_event("startup")
 @repeat_every(seconds=600)
