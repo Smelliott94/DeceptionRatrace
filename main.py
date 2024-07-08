@@ -63,5 +63,6 @@ async def startup_event():
 
 @app.get('/report')
 async def get_report():
-    return report
+    sorted_report = sorted(report, key=lambda x: x.get("Score", float('-inf')), reverse=True)
+    return sorted_report
 
