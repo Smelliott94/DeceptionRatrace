@@ -1,785 +1,785 @@
 [
   {
-    "Discord": "Creepin", 
-    "Rolled Spec": "Demonhunter Veng", 
-    "Character": "Helloing", 
-    "Main Char. Spec": "Mage Fire", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Helloing", 
-    "Main Char. Name": "Creepint"
-  }, 
-  {
-    "Discord": "Chonky", 
-    "Rolled Spec": "Monk Mistweaver", 
-    "Character": "Doyoumistme-Silvermoon", 
-    "Main Char. Spec": "Demonhunter Havoc", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Doyoumistme-Silvermoon", 
-    "Main Char. Name": "Illichonk-Ravencrest"
-  }, 
-  {
-    "Discord": "Xyrells", 
-    "Rolled Spec": "Monk WW", 
-    "Character": "Xyrellsmonk", 
-    "Main Char. Spec": "Rogue Outlaw", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Xyrellsmonk", 
-    "Main Char. Name": "Xyrells"
-  }, 
-  {
-    "Discord": "Stickman", 
-    "Rolled Spec": "Monk WW", 
-    "Character": "Fiststick", 
-    "Main Char. Spec": "Evoker Aug", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Fiststick", 
-    "Main Char. Name": "Buffsticks/Spearstick"
-  }, 
-  {
-    "Discord": "Bearsker", 
-    "Rolled Spec": "Warrior Prot", 
-    "Character": "Tiinkertoy", 
-    "Main Char. Spec": "Deathknight Blood", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Tiinkertoy", 
-    "Main Char. Name": "Deathsker"
-  }, 
-  {
-    "Discord": "Kieran", 
-    "Rolled Spec": "Druid Resto", 
-    "Character": "Roarasaurus", 
-    "Main Char. Spec": "Priest Holy", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Roarasaurus", 
-    "Main Char. Name": "Healasaurus"
-  }, 
-  {
-    "Discord": "Xeno", 
-    "Rolled Spec": "Deathknight Unholy", 
-    "Character": "xenofotm", 
-    "Main Char. Spec": "Demonhunter Havoc", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "xenofotm", 
-    "Main Char. Name": "Xeno"
-  }, 
-  {
-    "Discord": "Lones", 
-    "Rolled Spec": "Rogue Outlaw", 
-    "Character": "Lonesone", 
-    "Main Char. Spec": "Monk Mistweaver", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Lonesone", 
-    "Main Char. Name": "Lones"
-  }, 
-  {
-    "Discord": "Skynix", 
-    "Rolled Spec": "Druid Resto", 
-    "Character": "skyarde", 
-    "Main Char. Spec": "Evoker Aug", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "skyarde", 
-    "Main Char. Name": "Skylyd"
-  }, 
-  {
-    "Discord": "Guldb\u00e6k", 
-    "Rolled Spec": "Mage Fire", 
-    "Character": "Goldb\u00e6k", 
-    "Main Char. Spec": "Evoker Aug", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Goldb\u00e6k", 
-    "Main Char. Name": "Guldb\u00e4ek"
-  }, 
-  {
-    "Discord": "Aiorchilin", 
-    "Rolled Spec": "Monk WW", 
-    "Character": "Bijli", 
-    "Main Char. Spec": "Paladin Holy", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Bijli", 
-    "Main Char. Name": "Aiorchilin"
-  }, 
-  {
-    "Discord": "sadcat_madcat", 
-    "Rolled Spec": "Priest Holy", 
-    "Character": "Gloomycat", 
-    "Main Char. Spec": "Mage Frost", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Gloomycat", 
-    "Main Char. Name": "Tarrotcat"
-  }, 
-  {
-    "Discord": "Reroll", 
-    "Rolled Spec": "Demonhunter Veng", 
-    "Character": "Quitalrdy", 
-    "Main Char. Spec": "Priest Holy", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Quitalrdy", 
-    "Main Char. Name": "R\u00ear\u00f4ll"
-  }, 
-  {
-    "Discord": "gefgz", 
-    "Rolled Spec": "Deathknight Frost", 
-    "Character": "Gefsdk", 
-    "Main Char. Spec": "Monk WW", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Gefsdk", 
-    "Main Char. Name": "Gefmonk"
-  }, 
-  {
-    "Discord": "Ids", 
-    "Rolled Spec": "Warrior Arms", 
-    "Character": "Grimondi", 
-    "Main Char. Spec": "Mage Arcane", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Grimondi", 
-    "Main Char. Name": "Walrids"
-  }, 
-  {
-    "Discord": "Sylivia", 
-    "Rolled Spec": "Priest Disc", 
-    "Character": "Sylaphina", 
-    "Main Char. Spec": "Evoker Aug", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Sylaphina", 
-    "Main Char. Name": "Syleevee"
-  }, 
-  {
-    "Discord": "Stonei", 
-    "Rolled Spec": "Mage Fire", 
-    "Character": "Kalratmandor-TwistingNether", 
-    "Main Char. Spec": "Paladin Ret", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Kalratmandor-TwistingNether", 
-    "Main Char. Name": "Stoneapple"
-  }, 
-  {
-    "Discord": "Yagoora", 
-    "Rolled Spec": "Mage Fire", 
-    "Character": "Zuramar\u00f9", 
-    "Main Char. Spec": "Deathknight Unholy", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Zuramar\u00f9", 
-    "Main Char. Name": "Yagoora"
-  }, 
-  {
-    "Discord": ".hugo6227", 
-    "Rolled Spec": "Evoker Dev", 
-    "Character": "Staywoker", 
-    "Main Char. Spec": "Druid Resto", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Staywoker", 
-    "Main Char. Name": "Sseexxyy"
-  }, 
-  {
-    "Discord": "Tirgon", 
-    "Rolled Spec": "Druid Guardian", 
-    "Character": "Catere", 
-    "Main Char. Spec": "Paladin Prot", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Catere", 
-    "Main Char. Name": "Tirgon"
-  }, 
-  {
-    "Discord": "Solusk", 
-    "Rolled Spec": "Shaman Resto", 
-    "Character": "Solusk", 
-    "Main Char. Spec": "Paladin Holy", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Solusk", 
-    "Main Char. Name": "Cruxus"
-  }, 
-  {
-    "Discord": "aliae", 
-    "Rolled Spec": "Warrior Prot", 
-    "Character": "\u00c2li\u00e6-Dalaran", 
-    "Main Char. Spec": "Shadow Priest", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "\u00c2li\u00e6-Dalaran", 
-    "Main Char. Name": "Alia\u00e8"
-  }, 
-  {
-    "Discord": "Dudette Baguette", 
-    "Rolled Spec": "Hunter MM", 
-    "Character": "Etheleya", 
-    "Main Char. Spec": "Shaman Resto", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Etheleya", 
-    "Main Char. Name": "Sahirah"
-  }, 
-  {
-    "Discord": "Thzlar", 
-    "Rolled Spec": "Shaman Enhance", 
-    "Character": "Theyna", 
-    "Main Char. Spec": "Paladin Holy", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Theyna", 
-    "Main Char. Name": "CrispyToad"
-  }, 
-  {
-    "Discord": "slandf", 
-    "Rolled Spec": "Warlock Aff", 
-    "Character": "Slankells", 
-    "Main Char. Spec": "Deathknight Blood", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Slankells", 
-    "Main Char. Name": "SlanDk"
-  }, 
-  {
-    "Discord": "Gand", 
-    "Rolled Spec": "Deathknight Blood", 
-    "Character": "Gandeta", 
-    "Main Char. Spec": "Mage Frost", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Gandeta", 
-    "Main Char. Name": "Gandizzle"
-  }, 
-  {
-    "Discord": "Nakora", 
-    "Rolled Spec": "Paladin Ret", 
-    "Character": "Nykura", 
-    "Main Char. Spec": "Rogue Ass", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Nykura", 
-    "Main Char. Name": "Nakoya"
-  }, 
-  {
-    "Discord": "Duckie", 
-    "Rolled Spec": "Demonhunter Havoc", 
-    "Character": "Assterior-ravencrest", 
-    "Main Char. Spec": "Evoker Aug", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Assterior-ravencrest", 
-    "Main Char. Name": "Duckievoker"
-  }, 
-  {
-    "Discord": "Yuliea", 
-    "Rolled Spec": "Mage Frost", 
-    "Character": "Doll", 
-    "Main Char. Spec": "Priest Holy", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Doll", 
-    "Main Char. Name": "Lovely"
-  }, 
-  {
-    "Discord": "Nisse", 
-    "Rolled Spec": "Warlock Destro", 
-    "Character": "Spherer", 
-    "Main Char. Spec": "Demonhunter Veng", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Spherer", 
-    "Main Char. Name": "Bweaky"
-  }, 
-  {
-    "Discord": "norskenxd", 
-    "Rolled Spec": "Deathknight Unholy", 
-    "Character": "N\u00f8rskenx-TarrenMill", 
-    "Main Char. Spec": "Rogue Sub", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "N\u00f8rskenx-TarrenMill", 
-    "Main Char. Name": "N\u00f8rskenxd"
-  }, 
-  {
-    "Discord": "Totemaija (Maria)", 
-    "Rolled Spec": "Druid Guardian", 
-    "Character": "Meilay", 
-    "Main Char. Spec": "Priest Holy", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Meilay", 
-    "Main Char. Name": "Mysticanya"
-  }, 
-  {
-    "Discord": "Redd5255", 
-    "Rolled Spec": "Priest Shadow", 
-    "Character": "R\u00e9ddy", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "R\u00e9ddy", 
-    "Main Char. Name": "Ketacain"
-  }, 
-  {
-    "Discord": "Venhime", 
-    "Rolled Spec": "Monk WW", 
-    "Character": "Ventime", 
-    "Main Char. Spec": "Mage Frost", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Ventime", 
-    "Main Char. Name": "Venhime"
-  }, 
-  {
-    "Discord": "Jeventes", 
-    "Rolled Spec": "Mage Fire", 
-    "Character": "Jevemage", 
-    "Main Char. Spec": "Warrior Fury", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Jevemage", 
-    "Main Char. Name": "Jeventes"
-  }, 
-  {
-    "Discord": "Raz", 
-    "Rolled Spec": "Paladin Ret", 
-    "Character": "Exordia", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Exordia", 
-    "Main Char. Name": "Razmaa"
-  }, 
-  {
-    "Discord": "Dawnh", 
-    "Rolled Spec": "Deathknight Blood", 
-    "Character": "Dhawnd", 
-    "Main Char. Spec": "Demonhunter Havoc", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Dhawnd", 
-    "Main Char. Name": "Dhdawn"
-  }, 
-  {
-    "Discord": "Gat", 
-    "Rolled Spec": "Druid Feral", 
-    "Character": "Gatuid", 
-    "Main Char. Spec": "Paladin Ret", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Gatuid", 
-    "Main Char. Name": "Gatadin"
-  }, 
-  {
-    "Discord": "Leeta", 
-    "Rolled Spec": "Druid Guardian", 
-    "Character": "Depleetaa", 
-    "Main Char. Spec": "Monk WW", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Depleetaa", 
-    "Main Char. Name": "Leeta"
-  }, 
-  {
-    "Discord": "Borons", 
-    "Rolled Spec": "Druid Guardian", 
-    "Character": "Dorons", 
-    "Main Char. Spec": "Paladin Ret", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Dorons", 
-    "Main Char. Name": "Borons"
-  }, 
-  {
-    "Discord": "Thiccbrandon", 
-    "Rolled Spec": "Demonhunter Havoc", 
-    "Character": "Sassysara", 
-    "Main Char. Spec": "Druid Feral", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Sassysara", 
-    "Main Char. Name": "Thiccthia"
-  }, 
-  {
-    "Discord": "Kells", 
-    "Rolled Spec": "Warrior Arms", 
-    "Character": "Kellswarr", 
-    "Main Char. Spec": "Warlock Destro", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Kellswarr", 
-    "Main Char. Name": "Kellslocks"
-  }, 
-  {
-    "Discord": "Onrine", 
-    "Rolled Spec": "Rogue Sub", 
-    "Character": "Onno", 
-    "Main Char. Spec": "Monk Mistweaver", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Onno", 
-    "Main Char. Name": "Onrie"
-  }, 
-  {
-    "Discord": "Legmeat", 
-    "Rolled Spec": "Hunter BM", 
-    "Character": "Eames", 
-    "Main Char. Spec": "Deathknight Unholy", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Eames", 
-    "Main Char. Name": "Legmeat"
-  }, 
-  {
-    "Discord": "Demowolfiecls", 
-    "Rolled Spec": "Druid Resto", 
-    "Character": "Nightstars", 
-    "Main Char. Spec": "Demonhunter Veng", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Nightstars", 
-    "Main Char. Name": "Steelfister"
-  }, 
-  {
-    "Discord": "Coralyne", 
-    "Rolled Spec": "Mage Frost", 
-    "Character": "Magelyne", 
-    "Main Char. Spec": "Deathknight Frost", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Magelyne", 
-    "Main Char. Name": "Deathlyne"
-  }, 
-  {
-    "Discord": "uJelly", 
-    "Rolled Spec": "Monk Mistweaver", 
-    "Character": "Mooian", 
-    "Main Char. Spec": "Deathknight Blood", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Mooian", 
-    "Main Char. Name": "Jellian"
-  }, 
-  {
-    "Discord": "Yosh", 
-    "Rolled Spec": "Hunter MM", 
-    "Character": "Lenedar", 
-    "Main Char. Spec": "Warlock Demo", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Lenedar", 
-    "Main Char. Name": "Malthius"
-  }, 
-  {
-    "Discord": "Khirasa", 
-    "Rolled Spec": "Evoker Aug", 
-    "Character": "Kazsindra", 
-    "Main Char. Spec": "Paladin Ret", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Kazsindra", 
-    "Main Char. Name": "Xandras"
-  }, 
-  {
-    "Discord": "Oreo", 
-    "Rolled Spec": "Demonhunter Veng", 
-    "Character": "Jzck\u00f3", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Jzck\u00f3", 
-    "Main Char. Name": "Oretwist"
-  }, 
-  {
-    "Discord": "Bard", 
-    "Rolled Spec": "Mage Frost", 
-    "Character": "Magimand", 
-    "Main Char. Spec": "Warrior Arms", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Magimand", 
-    "Main Char. Name": "Smard"
-  }, 
-  {
-    "Discord": "Siro", 
-    "Rolled Spec": "Priest Disc", 
-    "Character": "S\u00efro", 
-    "Main Char. Spec": "Deathknight Unholy", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "S\u00efro", 
-    "Main Char. Name": "Siro"
-  }, 
-  {
-    "Discord": "Zilliei", 
-    "Rolled Spec": "Mage Arcane", 
-    "Character": "Steinsgate", 
-    "Main Char. Spec": "Evoker Aug", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Steinsgate", 
-    "Main Char. Name": "Yddraig"
-  }, 
-  {
-    "Discord": "Pane", 
-    "Rolled Spec": "Shaman Enhance", 
-    "Character": "Framstjaert-Emeriss", 
-    "Main Char. Spec": "Warrior Arms", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Framstjaert-Emeriss", 
-    "Main Char. Name": "S\u00e5sse"
-  }, 
-  {
-    "Discord": "Peterjohnson", 
-    "Rolled Spec": "Rogue Sub", 
-    "Character": "Grimupnorth", 
-    "Main Char. Spec": "Shaman Enhance", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Grimupnorth", 
-    "Main Char. Name": "Ultimatejuan"
-  }, 
-  {
-    "Discord": "TRX", 
-    "Rolled Spec": "Priest Shadow", 
-    "Character": "Branjar", 
-    "Main Char. Spec": "Rogue Sub", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Branjar", 
-    "Main Char. Name": "Byrul"
-  }, 
-  {
-    "Discord": "Kat", 
-    "Rolled Spec": "Rogue Ass", 
-    "Character": "Rosetoy", 
-    "Main Char. Spec": "Priest Shadow", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Rosetoy", 
-    "Main Char. Name": "Jojoseaweed"
-  }, 
-  {
-    "Discord": "Jules", 
-    "Rolled Spec": "Warlock Demo", 
-    "Character": "Miserably", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Miserably", 
-    "Main Char. Name": "Traumatic"
-  }, 
-  {
-    "Discord": "Yaggib", 
-    "Rolled Spec": "Warlock Demo", 
-    "Character": "Z\u00f3okeeper", 
-    "Main Char. Spec": "Paladin Ret", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Z\u00f3okeeper", 
-    "Main Char. Name": "Bannedparser"
-  }, 
-  {
-    "Discord": "honeyhoney", 
-    "Rolled Spec": "Paladin Holy", 
-    "Character": "Honeylight-TwistingNether", 
-    "Main Char. Spec": "Evoker Pres", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Honeylight-TwistingNether", 
-    "Main Char. Name": "Honeysmaug"
-  }, 
-  {
-    "Discord": "Donkeyen |Christian", 
-    "Rolled Spec": "Shaman Resto", 
-    "Character": "Hurrikeyen", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "HEALER", 
-    "Challenge Char. Name": "Hurrikeyen", 
-    "Main Char. Name": "Donkeyen"
-  }, 
-  {
-    "Discord": "Derrin", 
-    "Rolled Spec": "Demonhunter Havoc", 
-    "Character": "Namor\u00e1", 
-    "Main Char. Spec": "Paladin Prot", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Namor\u00e1", 
-    "Main Char. Name": "Derrin"
-  }, 
-  {
-    "Discord": "Henk", 
-    "Rolled Spec": "Rogue Sub", 
-    "Character": "Mackaa", 
-    "Main Char. Spec": "Mage Frost", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Mackaa", 
-    "Main Char. Name": "Ifat"
-  }, 
-  {
-    "Discord": "Adam", 
-    "Rolled Spec": "Rogue Outlaw", 
-    "Character": "Cellkoo", 
-    "Main Char. Spec": "Demonhunter Veng", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Cellkoo", 
-    "Main Char. Name": "Celkaa"
-  }, 
-  {
-    "Discord": ".brobeans", 
-    "Rolled Spec": "Druid Balance", 
-    "Character": "Bumphoon-TwistingNether", 
-    "Main Char. Spec": "Warlock Demo", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Bumphoon-TwistingNether", 
-    "Main Char. Name": "Bumlings"
-  }, 
-  {
-    "Discord": "Tirean", 
-    "Rolled Spec": "Mage Arcane", 
-    "Character": "T\u00edrean", 
-    "Main Char. Spec": "Priest Shadow", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "T\u00edrean", 
-    "Main Char. Name": "T\u00e1reana"
-  }, 
-  {
-    "Discord": "Uldza", 
-    "Rolled Spec": "Rogue Ass", 
-    "Character": "Uldarogue", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Uldarogue", 
-    "Main Char. Name": "Uldza"
-  }, 
-  {
-    "Discord": null, 
-    "Rolled Spec": "Mage Frost", 
-    "Character": "Kethris", 
-    "Main Char. Spec": "Rogue Outlaw", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Kethris", 
-    "Main Char. Name": "Dissolved"
-  }, 
-  {
-    "Discord": "Eldonaris", 
-    "Rolled Spec": "Hunter BM", 
-    "Character": "Asmopet", 
-    "Main Char. Spec": "Rogue Sub", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Asmopet", 
-    "Main Char. Name": "Eldonaris"
-  }, 
-  {
-    "Discord": "Ben", 
-    "Rolled Spec": "Paladin Prot", 
-    "Character": "Lutheren", 
-    "Main Char. Spec": "Evoker Pres", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Lutheren", 
-    "Main Char. Name": "Ascalyboi"
-  }, 
-  {
-    "Discord": "_satw", 
-    "Rolled Spec": "Druid Balance", 
-    "Character": "Bigjett lvl1", 
-    "Main Char. Spec": "Warlock Demo", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Bigjett lvl1", 
-    "Main Char. Name": "Lynnbb"
-  }, 
-  {
-    "Discord": "Maximuszj", 
-    "Rolled Spec": "Shaman Enhance", 
-    "Character": "Shamimuszj", 
-    "Main Char. Spec": "Rogue Outlaw", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Shamimuszj", 
-    "Main Char. Name": "Maximuszj"
-  }, 
-  {
-    "Discord": "Foxy", 
-    "Rolled Spec": "Paladin Prot", 
-    "Character": "Lightpawz", 
-    "Main Char. Spec": "Shaman Resto", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Lightpawz", 
-    "Main Char. Name": "Foxypawz"
-  }, 
-  {
-    "Discord": "Macx", 
-    "Rolled Spec": "Deathknight Blood", 
-    "Character": "Macmeal", 
-    "Main Char. Spec": "Warlock Destro", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Macmeal", 
-    "Main Char. Name": "Macx"
-  }, 
-  {
-    "Discord": "Lindro", 
-    "Rolled Spec": "Paladin Ret", 
-    "Character": "Lindroret", 
-    "Main Char. Spec": "Demonhunter Havoc", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Lindroret", 
-    "Main Char. Name": "Lindrodh"
-  }, 
-  {
-    "Discord": "Flebyburd", 
-    "Rolled Spec": "Paladin Prot", 
-    "Character": "Flebycrusade", 
-    "Main Char. Spec": "Rogue Ass", 
-    "Role": "TANK", 
-    "Challenge Char. Name": "Flebycrusade", 
-    "Main Char. Name": "Flebyrat"
-  }, 
-  {
-    "Discord": "Huntersnus", 
-    "Rolled Spec": "Demonhunter Havoc", 
-    "Character": "Demonsnus", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Demonsnus", 
-    "Main Char. Name": "Huntersnus"
-  }, 
-  {
-    "Discord": "Phill", 
-    "Rolled Spec": "Deathknight Frost", 
-    "Character": "Ohhrat", 
-    "Main Char. Spec": "Priest Holy", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Ohhrat", 
-    "Main Char. Name": "Ohhdisc"
-  }, 
-  {
-    "Discord": "Dreothal", 
-    "Rolled Spec": "Evoker Aug", 
-    "Character": "Sildenor", 
-    "Main Char. Spec": "Druid Feral", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Sildenor", 
-    "Main Char. Name": "Dreothal"
-  }, 
-  {
-    "Discord": "gerry9087", 
-    "Rolled Spec": "Rogue Sub", 
-    "Character": "Knaefi", 
-    "Main Char. Spec": "Monk Mistweaver", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Knaefi", 
-    "Main Char. Name": "Naechi"
-  }, 
-  {
-    "Discord": "Huggaren", 
-    "Rolled Spec": "Hunter MM", 
-    "Character": "J\u00e4garmark", 
-    "Main Char. Spec": "Mage Frost", 
-    "Role": "DPS ", 
-    "Challenge Char. Name": "J\u00e4garmark", 
-    "Main Char. Name": "Huggmark"
-  }, 
-  {
-    "Discord": "Gordon (Glepn\u00edr)", 
-    "Rolled Spec": "Mage Fire", 
-    "Character": "Infernoglep", 
-    "Main Char. Spec": "Druid Balance", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Infernoglep", 
-    "Main Char. Name": "Glepn\u00edr"
-  }, 
-  {
-    "Discord": "Mike", 
-    "Rolled Spec": "Warrior Arms", 
-    "Character": "Mikezugs", 
-    "Main Char. Spec": "Deathknight Blood", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Mikezugs", 
-    "Main Char. Name": "Mikesdead"
-  }, 
-  {
-    "Discord": "taliataliatalia", 
-    "Rolled Spec": "Mage Fire", 
-    "Character": "Taliaone", 
-    "Main Char. Spec": "Shaman Resto", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Taliaone", 
-    "Main Char. Name": "Taliaa"
-  }, 
-  {
-    "Discord": "Raliator", 
-    "Rolled Spec": "Rogue Outlaw", 
-    "Character": "Raliator-kazzak", 
-    "Main Char. Spec": "Mage Frost", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Raliator-kazzak", 
-    "Main Char. Name": "Splitcrit"
-  }, 
-  {
-    "Discord": "Jurr\u00f2z", 
-    "Rolled Spec": "Warrior Arms", 
-    "Character": "Chunk\u00f2z", 
-    "Main Char. Spec": "Hunter BM", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Chunk\u00f2z", 
-    "Main Char. Name": "Jurr\u00f2z"
-  }, 
-  {
-    "Discord": "Fabray", 
-    "Rolled Spec": "Druid Balance", 
-    "Character": "Anyarla", 
-    "Main Char. Spec": "Priest Holy", 
-    "Role": "DPS", 
-    "Challenge Char. Name": "Anyarla", 
-    "Main Char. Name": "Echoette"
+    "Discord": "Creepin",
+    "Main Char. Name": "Creepint",
+    "Main Char. Spec": "Mage Fire",
+    "Rolled Spec": "Demonhunter Veng",
+    "Challenge Char. Name": "Helloing",
+    "Role": "TANK",
+    "Character": "Helloing"
+  },
+  {
+    "Discord": "Chonky",
+    "Main Char. Name": "Illichonk-Ravencrest",
+    "Main Char. Spec": "Demonhunter Havoc",
+    "Rolled Spec": "Monk Mistweaver",
+    "Challenge Char. Name": "Doyoumistme-Silvermoon",
+    "Role": "HEALER",
+    "Character": "Doyoumistme-Silvermoon"
+  },
+  {
+    "Discord": "Xyrells",
+    "Main Char. Name": "Xyrells",
+    "Main Char. Spec": "Rogue Outlaw",
+    "Rolled Spec": "Monk WW",
+    "Challenge Char. Name": "Xyrellsmonk",
+    "Role": "DPS",
+    "Character": "Xyrellsmonk"
+  },
+  {
+    "Discord": "Stickman",
+    "Main Char. Name": "Buffsticks/Spearstick",
+    "Main Char. Spec": "Evoker Aug",
+    "Rolled Spec": "Monk WW",
+    "Challenge Char. Name": "Fiststick",
+    "Role": "DPS",
+    "Character": "Fiststick"
+  },
+  {
+    "Discord": "Bearsker",
+    "Main Char. Name": "Deathsker",
+    "Main Char. Spec": "Deathknight Blood",
+    "Rolled Spec": "Warrior Prot",
+    "Challenge Char. Name": "Tiinkertoy",
+    "Role": "TANK",
+    "Character": "Tiinkertoy"
+  },
+  {
+    "Discord": "Kieran",
+    "Main Char. Name": "Healasaurus",
+    "Main Char. Spec": "Priest Holy",
+    "Rolled Spec": "Druid Resto",
+    "Challenge Char. Name": "Roarasaurus",
+    "Role": "HEALER",
+    "Character": "Roarasaurus"
+  },
+  {
+    "Discord": "Xeno",
+    "Main Char. Name": "Xeno",
+    "Main Char. Spec": "Demonhunter Havoc",
+    "Rolled Spec": "Deathknight Unholy",
+    "Challenge Char. Name": "xenofotm",
+    "Role": "DPS",
+    "Character": "xenofotm"
+  },
+  {
+    "Discord": "Lones",
+    "Main Char. Name": "Lones",
+    "Main Char. Spec": "Monk Mistweaver",
+    "Rolled Spec": "Rogue Outlaw",
+    "Challenge Char. Name": "Lonesone",
+    "Role": "DPS",
+    "Character": "Lonesone"
+  },
+  {
+    "Discord": "Skynix",
+    "Main Char. Name": "Skylyd",
+    "Main Char. Spec": "Evoker Aug",
+    "Rolled Spec": "Druid Resto",
+    "Challenge Char. Name": "skyarde",
+    "Role": "HEALER",
+    "Character": "skyarde"
+  },
+  {
+    "Discord": "Guldb\u00e6k",
+    "Main Char. Name": "Guldb\u00e4ek",
+    "Main Char. Spec": "Evoker Aug",
+    "Rolled Spec": "Mage Fire",
+    "Challenge Char. Name": "Goldb\u00e6k",
+    "Role": "DPS",
+    "Character": "Goldb\u00e6k"
+  },
+  {
+    "Discord": "Aiorchilin",
+    "Main Char. Name": "Aiorchilin",
+    "Main Char. Spec": "Paladin Holy",
+    "Rolled Spec": "Monk WW",
+    "Challenge Char. Name": "Bijli",
+    "Role": "DPS",
+    "Character": "Bijli"
+  },
+  {
+    "Discord": "sadcat_madcat",
+    "Main Char. Name": "Tarrotcat",
+    "Main Char. Spec": "Mage Frost",
+    "Rolled Spec": "Priest Holy",
+    "Challenge Char. Name": "Gloomycat",
+    "Role": "DPS",
+    "Character": "Gloomycat"
+  },
+  {
+    "Discord": "Reroll",
+    "Main Char. Name": "R\u00ear\u00f4ll",
+    "Main Char. Spec": "Priest Holy",
+    "Rolled Spec": "Demonhunter Veng",
+    "Challenge Char. Name": "Quitalrdy",
+    "Role": "TANK",
+    "Character": "Quitalrdy"
+  },
+  {
+    "Discord": "gefgz",
+    "Main Char. Name": "Gefmonk",
+    "Main Char. Spec": "Monk WW",
+    "Rolled Spec": "Deathknight Frost",
+    "Challenge Char. Name": "Gefsdk",
+    "Role": "DPS",
+    "Character": "Gefsdk"
+  },
+  {
+    "Discord": "Ids",
+    "Main Char. Name": "Walrids",
+    "Main Char. Spec": "Mage Arcane",
+    "Rolled Spec": "Warrior Arms",
+    "Challenge Char. Name": "Grimondi",
+    "Role": "DPS",
+    "Character": "Grimondi"
+  },
+  {
+    "Discord": "Sylivia",
+    "Main Char. Name": "Syleevee",
+    "Main Char. Spec": "Evoker Aug",
+    "Rolled Spec": "Priest Disc",
+    "Challenge Char. Name": "Sylaphina",
+    "Role": "HEALER",
+    "Character": "Sylaphina"
+  },
+  {
+    "Discord": "Stonei",
+    "Main Char. Name": "Stoneapple",
+    "Main Char. Spec": "Paladin Ret",
+    "Rolled Spec": "Mage Fire",
+    "Challenge Char. Name": "Kalratmandor-TwistingNether",
+    "Role": "DPS",
+    "Character": "Kalratmandor-TwistingNether"
+  },
+  {
+    "Discord": "Yagoora",
+    "Main Char. Name": "Yagoora",
+    "Main Char. Spec": "Deathknight Unholy",
+    "Rolled Spec": "Mage Fire",
+    "Challenge Char. Name": "Zuramar\u00f9",
+    "Role": "DPS",
+    "Character": "Zuramar\u00f9"
+  },
+  {
+    "Discord": ".hugo6227",
+    "Main Char. Name": "Sseexxyy",
+    "Main Char. Spec": "Druid Resto",
+    "Rolled Spec": "Evoker Dev",
+    "Challenge Char. Name": "Staywoker",
+    "Role": "DPS",
+    "Character": "Staywoker"
+  },
+  {
+    "Discord": "Tirgon",
+    "Main Char. Name": "Tirgon",
+    "Main Char. Spec": "Paladin Prot",
+    "Rolled Spec": "Druid Guardian",
+    "Challenge Char. Name": "Catere",
+    "Role": "TANK",
+    "Character": "Catere"
+  },
+  {
+    "Discord": "Solusk",
+    "Main Char. Name": "Cruxus",
+    "Main Char. Spec": "Paladin Holy",
+    "Rolled Spec": "Shaman Resto",
+    "Challenge Char. Name": "Solusk",
+    "Role": "HEALER",
+    "Character": "Solusk"
+  },
+  {
+    "Discord": "aliae",
+    "Main Char. Name": "Alia\u00e8",
+    "Main Char. Spec": "Shadow Priest",
+    "Rolled Spec": "Warrior Prot",
+    "Challenge Char. Name": "\u00c2li\u00e6-Dalaran",
+    "Role": "TANK",
+    "Character": "\u00c2li\u00e6-Dalaran"
+  },
+  {
+    "Discord": "Dudette Baguette",
+    "Main Char. Name": "Sahirah",
+    "Main Char. Spec": "Shaman Resto",
+    "Rolled Spec": "Hunter MM",
+    "Challenge Char. Name": "Etheleya",
+    "Role": "DPS",
+    "Character": "Etheleya"
+  },
+  {
+    "Discord": "Thzlar",
+    "Main Char. Name": "CrispyToad",
+    "Main Char. Spec": "Paladin Holy",
+    "Rolled Spec": "Shaman Enhance",
+    "Challenge Char. Name": "Theyna",
+    "Role": "DPS",
+    "Character": "Theyna"
+  },
+  {
+    "Discord": "slandf",
+    "Main Char. Name": "SlanDk",
+    "Main Char. Spec": "Deathknight Blood",
+    "Rolled Spec": "Warlock Aff",
+    "Challenge Char. Name": "Slankells",
+    "Role": "DPS",
+    "Character": "Slankells"
+  },
+  {
+    "Discord": "Gand",
+    "Main Char. Name": "Gandizzle",
+    "Main Char. Spec": "Mage Frost",
+    "Rolled Spec": "Deathknight Blood",
+    "Challenge Char. Name": "Gandeta",
+    "Role": "TANK",
+    "Character": "Gandeta"
+  },
+  {
+    "Discord": "Nakora",
+    "Main Char. Name": "Nakoya",
+    "Main Char. Spec": "Rogue Ass",
+    "Rolled Spec": "Paladin Ret",
+    "Challenge Char. Name": "Nykura",
+    "Role": "DPS",
+    "Character": "Nykura"
+  },
+  {
+    "Discord": "Duckie",
+    "Main Char. Name": "Duckievoker",
+    "Main Char. Spec": "Evoker Aug",
+    "Rolled Spec": "Demonhunter Havoc",
+    "Challenge Char. Name": "Assterior-ravencrest",
+    "Role": "DPS",
+    "Character": "Assterior-ravencrest"
+  },
+  {
+    "Discord": "Yuliea",
+    "Main Char. Name": "Lovely",
+    "Main Char. Spec": "Priest Holy",
+    "Rolled Spec": "Mage Frost",
+    "Challenge Char. Name": "Doll",
+    "Role": "DPS",
+    "Character": "Doll"
+  },
+  {
+    "Discord": "Nisse",
+    "Main Char. Name": "Bweaky",
+    "Main Char. Spec": "Demonhunter Veng",
+    "Rolled Spec": "Warlock Destro",
+    "Challenge Char. Name": "Spherer",
+    "Role": "DPS",
+    "Character": "Spherer"
+  },
+  {
+    "Discord": "norskenxd",
+    "Main Char. Name": "N\u00f8rskenxd",
+    "Main Char. Spec": "Rogue Sub",
+    "Rolled Spec": "Deathknight Unholy",
+    "Challenge Char. Name": "N\u00f8rskenx-TarrenMill",
+    "Role": "DPS",
+    "Character": "N\u00f8rskenx-TarrenMill"
+  },
+  {
+    "Discord": "Totemaija (Maria)",
+    "Main Char. Name": "Mysticanya",
+    "Main Char. Spec": "Priest Holy",
+    "Rolled Spec": "Druid Guardian",
+    "Challenge Char. Name": "Meilay",
+    "Role": "TANK",
+    "Character": "Meilay"
+  },
+  {
+    "Discord": "Redd5255",
+    "Main Char. Name": "Ketacain",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Priest Shadow",
+    "Challenge Char. Name": "R\u00e9ddy",
+    "Role": "DPS",
+    "Character": "R\u00e9ddy"
+  },
+  {
+    "Discord": "Venhime",
+    "Main Char. Name": "Venhime",
+    "Main Char. Spec": "Mage Frost",
+    "Rolled Spec": "Monk WW",
+    "Challenge Char. Name": "Ventime",
+    "Role": "DPS",
+    "Character": "Ventime"
+  },
+  {
+    "Discord": "Jeventes",
+    "Main Char. Name": "Jeventes",
+    "Main Char. Spec": "Warrior Fury",
+    "Rolled Spec": "Mage Fire",
+    "Challenge Char. Name": "Jevemage",
+    "Role": "DPS",
+    "Character": "Jevemage"
+  },
+  {
+    "Discord": "Raz",
+    "Main Char. Name": "Razmaa",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Paladin Ret",
+    "Challenge Char. Name": "Exordia",
+    "Role": "DPS",
+    "Character": "Exordia"
+  },
+  {
+    "Discord": "Dawnh",
+    "Main Char. Name": "Dhdawn",
+    "Main Char. Spec": "Demonhunter Havoc",
+    "Rolled Spec": "Deathknight Blood",
+    "Challenge Char. Name": "Dhawnd",
+    "Role": "TANK",
+    "Character": "Dhawnd"
+  },
+  {
+    "Discord": "Gat",
+    "Main Char. Name": "Gatadin",
+    "Main Char. Spec": "Paladin Ret",
+    "Rolled Spec": "Druid Feral",
+    "Challenge Char. Name": "Gatuid",
+    "Role": "DPS",
+    "Character": "Gatuid"
+  },
+  {
+    "Discord": "Leeta",
+    "Main Char. Name": "Leeta",
+    "Main Char. Spec": "Monk WW",
+    "Rolled Spec": "Druid Guardian",
+    "Challenge Char. Name": "Depleetaa",
+    "Role": "TANK",
+    "Character": "Depleetaa"
+  },
+  {
+    "Discord": "Borons",
+    "Main Char. Name": "Borons",
+    "Main Char. Spec": "Paladin Ret",
+    "Rolled Spec": "Druid Guardian",
+    "Challenge Char. Name": "Dorons",
+    "Role": "TANK",
+    "Character": "Dorons"
+  },
+  {
+    "Discord": "Thiccbrandon",
+    "Main Char. Name": "Thiccthia",
+    "Main Char. Spec": "Druid Feral",
+    "Rolled Spec": "Demonhunter Havoc",
+    "Challenge Char. Name": "Sassysara",
+    "Role": "DPS",
+    "Character": "Sassysara"
+  },
+  {
+    "Discord": "Kells",
+    "Main Char. Name": "Kellslocks",
+    "Main Char. Spec": "Warlock Destro",
+    "Rolled Spec": "Warrior Arms",
+    "Challenge Char. Name": "Kellswarr",
+    "Role": "DPS",
+    "Character": "Kellswarr"
+  },
+  {
+    "Discord": "Onrine",
+    "Main Char. Name": "Onrie",
+    "Main Char. Spec": "Monk Mistweaver",
+    "Rolled Spec": "Rogue Sub",
+    "Challenge Char. Name": "Onno",
+    "Role": "DPS",
+    "Character": "Onno"
+  },
+  {
+    "Discord": "Legmeat",
+    "Main Char. Name": "Legmeat",
+    "Main Char. Spec": "Deathknight Unholy",
+    "Rolled Spec": "Hunter BM",
+    "Challenge Char. Name": "Eames",
+    "Role": "DPS",
+    "Character": "Eames"
+  },
+  {
+    "Discord": "Demowolfiecls",
+    "Main Char. Name": "Steelfister",
+    "Main Char. Spec": "Demonhunter Veng",
+    "Rolled Spec": "Druid Resto",
+    "Challenge Char. Name": "Nightstars",
+    "Role": "HEALER",
+    "Character": "Nightstars"
+  },
+  {
+    "Discord": "Coralyne",
+    "Main Char. Name": "Deathlyne",
+    "Main Char. Spec": "Deathknight Frost",
+    "Rolled Spec": "Mage Frost",
+    "Challenge Char. Name": "Magelyne",
+    "Role": "DPS",
+    "Character": "Magelyne"
+  },
+  {
+    "Discord": "uJelly",
+    "Main Char. Name": "Jellian",
+    "Main Char. Spec": "Deathknight Blood",
+    "Rolled Spec": "Monk Mistweaver",
+    "Challenge Char. Name": "Mooian",
+    "Role": "HEALER",
+    "Character": "Mooian"
+  },
+  {
+    "Discord": "Yosh",
+    "Main Char. Name": "Malthius",
+    "Main Char. Spec": "Warlock Demo",
+    "Rolled Spec": "Hunter MM",
+    "Challenge Char. Name": "Lenedar",
+    "Role": "DPS",
+    "Character": "Lenedar"
+  },
+  {
+    "Discord": "Khirasa",
+    "Main Char. Name": "Xandras",
+    "Main Char. Spec": "Paladin Ret",
+    "Rolled Spec": "Evoker Aug",
+    "Challenge Char. Name": "Kazsindra",
+    "Role": "DPS",
+    "Character": "Kazsindra"
+  },
+  {
+    "Discord": "Oreo",
+    "Main Char. Name": "Oretwist",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Demonhunter Veng",
+    "Challenge Char. Name": "Jzck\u00f3",
+    "Role": "TANK",
+    "Character": "Jzck\u00f3"
+  },
+  {
+    "Discord": "Bard",
+    "Main Char. Name": "Smard",
+    "Main Char. Spec": "Warrior Arms",
+    "Rolled Spec": "Mage Frost",
+    "Challenge Char. Name": "Magimand",
+    "Role": "DPS",
+    "Character": "Magimand"
+  },
+  {
+    "Discord": "Siro",
+    "Main Char. Name": "Siro",
+    "Main Char. Spec": "Deathknight Unholy",
+    "Rolled Spec": "Priest Disc",
+    "Challenge Char. Name": "S\u00efro",
+    "Role": "HEALER",
+    "Character": "S\u00efro"
+  },
+  {
+    "Discord": "Zilliei",
+    "Main Char. Name": "Yddraig",
+    "Main Char. Spec": "Evoker Aug",
+    "Rolled Spec": "Mage Arcane",
+    "Challenge Char. Name": "Steinsgate",
+    "Role": "DPS",
+    "Character": "Steinsgate"
+  },
+  {
+    "Discord": "Pane",
+    "Main Char. Name": "S\u00e5sse",
+    "Main Char. Spec": "Warrior Arms",
+    "Rolled Spec": "Shaman Enhance",
+    "Challenge Char. Name": "Framstjaert-Emeriss",
+    "Role": "DPS",
+    "Character": "Framstjaert-Emeriss"
+  },
+  {
+    "Discord": "Peterjohnson",
+    "Main Char. Name": "Ultimatejuan",
+    "Main Char. Spec": "Shaman Enhance",
+    "Rolled Spec": "Rogue Sub",
+    "Challenge Char. Name": "Grimupnorth",
+    "Role": "DPS",
+    "Character": "Grimupnorth"
+  },
+  {
+    "Discord": "TRX",
+    "Main Char. Name": "Byrul",
+    "Main Char. Spec": "Rogue Sub",
+    "Rolled Spec": "Priest Shadow",
+    "Challenge Char. Name": "Branjar",
+    "Role": "DPS",
+    "Character": "Branjar"
+  },
+  {
+    "Discord": "Kat",
+    "Main Char. Name": "Jojoseaweed",
+    "Main Char. Spec": "Priest Shadow",
+    "Rolled Spec": "Rogue Ass",
+    "Challenge Char. Name": "Rosetoy",
+    "Role": "DPS",
+    "Character": "Rosetoy"
+  },
+  {
+    "Discord": "Jules",
+    "Main Char. Name": "Traumatic",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Warlock Demo",
+    "Challenge Char. Name": "Miserably",
+    "Role": "DPS",
+    "Character": "Miserably"
+  },
+  {
+    "Discord": "Yaggib",
+    "Main Char. Name": "Bannedparser",
+    "Main Char. Spec": "Paladin Ret",
+    "Rolled Spec": "Warlock Demo",
+    "Challenge Char. Name": "Z\u00f3okeeper",
+    "Role": "DPS",
+    "Character": "Z\u00f3okeeper"
+  },
+  {
+    "Discord": "honeyhoney",
+    "Main Char. Name": "Honeysmaug",
+    "Main Char. Spec": "Evoker Pres",
+    "Rolled Spec": "Paladin Holy",
+    "Challenge Char. Name": "Honeylight-TwistingNether",
+    "Role": "HEALER",
+    "Character": "Honeylight-TwistingNether"
+  },
+  {
+    "Discord": "Donkeyen |Christian",
+    "Main Char. Name": "Donkeyen",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Shaman Resto",
+    "Challenge Char. Name": "Hurrikeyen",
+    "Role": "HEALER",
+    "Character": "Hurrikeyen"
+  },
+  {
+    "Discord": "Derrin",
+    "Main Char. Name": "Derrin",
+    "Main Char. Spec": "Paladin Prot",
+    "Rolled Spec": "Demonhunter Havoc",
+    "Challenge Char. Name": "Namor\u00e1",
+    "Role": "DPS",
+    "Character": "Namor\u00e1"
+  },
+  {
+    "Discord": "Henk",
+    "Main Char. Name": "Ifat",
+    "Main Char. Spec": "Mage Frost",
+    "Rolled Spec": "Rogue Sub",
+    "Challenge Char. Name": "Mackaa",
+    "Role": "DPS",
+    "Character": "Mackaa"
+  },
+  {
+    "Discord": "Adam",
+    "Main Char. Name": "Celkaa",
+    "Main Char. Spec": "Demonhunter Veng",
+    "Rolled Spec": "Rogue Outlaw",
+    "Challenge Char. Name": "Cellkoo",
+    "Role": "DPS",
+    "Character": "Cellkoo"
+  },
+  {
+    "Discord": ".brobeans",
+    "Main Char. Name": "Bumlings",
+    "Main Char. Spec": "Warlock Demo",
+    "Rolled Spec": "Druid Balance",
+    "Challenge Char. Name": "Bumphoon-TwistingNether",
+    "Role": "DPS",
+    "Character": "Bumphoon-TwistingNether"
+  },
+  {
+    "Discord": "Tirean",
+    "Main Char. Name": "T\u00e1reana",
+    "Main Char. Spec": "Priest Shadow",
+    "Rolled Spec": "Mage Arcane",
+    "Challenge Char. Name": "T\u00edrean",
+    "Role": "DPS",
+    "Character": "T\u00edrean"
+  },
+  {
+    "Discord": "Uldza",
+    "Main Char. Name": "Uldza",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Rogue Ass",
+    "Challenge Char. Name": "Uldarogue",
+    "Role": "DPS",
+    "Character": "Uldarogue"
+  },
+  {
+    "Discord": null,
+    "Main Char. Name": "Dissolved",
+    "Main Char. Spec": "Rogue Outlaw",
+    "Rolled Spec": "Mage Frost",
+    "Challenge Char. Name": "Kethris",
+    "Role": "DPS",
+    "Character": "Kethris"
+  },
+  {
+    "Discord": "Eldonaris",
+    "Main Char. Name": "Eldonaris",
+    "Main Char. Spec": "Rogue Sub",
+    "Rolled Spec": "Hunter BM",
+    "Challenge Char. Name": "Asmopet",
+    "Role": "DPS",
+    "Character": "Asmopet"
+  },
+  {
+    "Discord": "Ben",
+    "Main Char. Name": "Ascalyboi",
+    "Main Char. Spec": "Evoker Pres",
+    "Rolled Spec": "Paladin Prot",
+    "Challenge Char. Name": "Lutheren",
+    "Role": "TANK",
+    "Character": "Lutheren"
+  },
+  {
+    "Discord": "_satw",
+    "Main Char. Name": "Lynnbb",
+    "Main Char. Spec": "Warlock Demo",
+    "Rolled Spec": "Druid Balance",
+    "Challenge Char. Name": "Bigjett lvl1",
+    "Role": "DPS",
+    "Character": "Bigjett lvl1"
+  },
+  {
+    "Discord": "Maximuszj",
+    "Main Char. Name": "Maximuszj",
+    "Main Char. Spec": "Rogue Outlaw",
+    "Rolled Spec": "Shaman Enhance",
+    "Challenge Char. Name": "Shamimuszj",
+    "Role": "DPS",
+    "Character": "Shamimuszj"
+  },
+  {
+    "Discord": "Foxy",
+    "Main Char. Name": "Foxypawz",
+    "Main Char. Spec": "Shaman Resto",
+    "Rolled Spec": "Paladin Prot",
+    "Challenge Char. Name": "Lightpawz",
+    "Role": "TANK",
+    "Character": "Lightpawz"
+  },
+  {
+    "Discord": "Macx",
+    "Main Char. Name": "Macx",
+    "Main Char. Spec": "Warlock Destro",
+    "Rolled Spec": "Deathknight Blood",
+    "Challenge Char. Name": "Macmeal",
+    "Role": "TANK",
+    "Character": "Macmeal"
+  },
+  {
+    "Discord": "Lindro",
+    "Main Char. Name": "Lindrodh",
+    "Main Char. Spec": "Demonhunter Havoc",
+    "Rolled Spec": "Paladin Ret",
+    "Challenge Char. Name": "Lindroret",
+    "Role": "DPS",
+    "Character": "Lindroret"
+  },
+  {
+    "Discord": "Flebyburd",
+    "Main Char. Name": "Flebyrat",
+    "Main Char. Spec": "Rogue Ass",
+    "Rolled Spec": "Paladin Prot",
+    "Challenge Char. Name": "Flebycrusade",
+    "Role": "TANK",
+    "Character": "Flebycrusade"
+  },
+  {
+    "Discord": "Huntersnus",
+    "Main Char. Name": "Huntersnus",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Demonhunter Havoc",
+    "Challenge Char. Name": "Demonsnus",
+    "Role": "DPS",
+    "Character": "Demonsnus"
+  },
+  {
+    "Discord": "Phill",
+    "Main Char. Name": "Ohhdisc",
+    "Main Char. Spec": "Priest Holy",
+    "Rolled Spec": "Deathknight Frost",
+    "Challenge Char. Name": "Ohhrat",
+    "Role": "DPS",
+    "Character": "Ohhrat"
+  },
+  {
+    "Discord": "Dreothal",
+    "Main Char. Name": "Dreothal",
+    "Main Char. Spec": "Druid Feral",
+    "Rolled Spec": "Evoker Aug",
+    "Challenge Char. Name": "Sildenor",
+    "Role": "DPS",
+    "Character": "Sildenor"
+  },
+  {
+    "Discord": "gerry9087",
+    "Main Char. Name": "Naechi",
+    "Main Char. Spec": "Monk Mistweaver",
+    "Rolled Spec": "Rogue Sub",
+    "Challenge Char. Name": "Knaefi",
+    "Role": "DPS",
+    "Character": "Knaefi"
+  },
+  {
+    "Discord": "Huggaren",
+    "Main Char. Name": "Huggmark",
+    "Main Char. Spec": "Mage Frost",
+    "Rolled Spec": "Hunter MM",
+    "Challenge Char. Name": "J\u00e4garmark",
+    "Role": "DPS ",
+    "Character": "J\u00e4garmark"
+  },
+  {
+    "Discord": "Gordon (Glepn\u00edr)",
+    "Main Char. Name": "Glepn\u00edr",
+    "Main Char. Spec": "Druid Balance",
+    "Rolled Spec": "Mage Fire",
+    "Challenge Char. Name": "Infernoglep",
+    "Role": "DPS",
+    "Character": "Infernoglep"
+  },
+  {
+    "Discord": "Mike",
+    "Main Char. Name": "Mikesdead",
+    "Main Char. Spec": "Deathknight Blood",
+    "Rolled Spec": "Warrior Arms",
+    "Challenge Char. Name": "Mikezugs",
+    "Role": "DPS",
+    "Character": "Mikezugs"
+  },
+  {
+    "Discord": "taliataliatalia",
+    "Main Char. Name": "Taliaa",
+    "Main Char. Spec": "Shaman Resto",
+    "Rolled Spec": "Mage Fire",
+    "Challenge Char. Name": "Taliaone",
+    "Role": "DPS",
+    "Character": "Taliaone"
+  },
+  {
+    "Discord": "Raliator",
+    "Main Char. Name": "Splitcrit",
+    "Main Char. Spec": "Mage Frost",
+    "Rolled Spec": "Rogue Outlaw",
+    "Challenge Char. Name": "Raliator-kazzak",
+    "Role": "DPS",
+    "Character": "Raliator-kazzak"
+  },
+  {
+    "Discord": "Jurr\u00f2z",
+    "Main Char. Name": "Jurr\u00f2z",
+    "Main Char. Spec": "Hunter BM",
+    "Rolled Spec": "Warrior Arms",
+    "Challenge Char. Name": "Chunk\u00f2z",
+    "Role": "DPS",
+    "Character": "Chunk\u00f2z"
+  },
+  {
+    "Discord": "Fabray",
+    "Main Char. Name": "Echoette",
+    "Main Char. Spec": "Priest Holy",
+    "Rolled Spec": "Druid Balance",
+    "Challenge Char. Name": "Anyarla",
+    "Role": "DPS",
+    "Character": "Anyarla"
   }
 ]
