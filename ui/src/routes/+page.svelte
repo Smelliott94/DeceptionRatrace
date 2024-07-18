@@ -5,6 +5,7 @@ import { onMount } from 'svelte';
  * @type {any[]}
  */
 let players = [];
+const headings = ['Discord', 'Main Char. Name', 'Main Char. Spec', 'Rolled Spec', 'Role', 'Challenge Char. Name', 'Score'];
 
 onMount(async () => {
     try {
@@ -24,31 +25,31 @@ onMount(async () => {
 });
 </script>
 
-<h1>Player Scores</h1>
+<h1>🐀 Rat Scores 🐀</h1>
 
 <table>
 <thead>
     <tr>
-    <th>Discord</th>
-    <th>Main Char. Name</th>
-    <th>Main Char. Spec</th>
-    <th>Rolled Spec</th>
-    <th>Role</th>
-    <th>Challenge Char. Name</th>
-    <th>Score</th>
+      {#each headings as heading}
+        <th>{heading}</th>
+      {/each}
     </tr>
 </thead>
 <tbody>
     {#each players as player}
     <tr>
-        {#each Object.keys(player) as key}
-        {#if (key === 'Challenge Char. Name' || key === 'Main Char. Name') && player[key].includes('-')}
-            <td><a href="https://raider.io/characters/eu/{player[key].split("-")[1]}/{player[key].split("-")[0]}" >{player[key]}</a></td>
-        {:else if key === 'Challenge Char. Name' || key === 'Main Char. Name'}
-            <td><a href="https://raider.io/characters/eu/Silvermoon/{player[key]}" >{player[key]}</a></td>
-        {:else}
-            <td>{player[key]}</td>
-        {/if}
+        {#each headings as key}
+          {#if key in player}
+            {#if (key === 'Challenge Char. Name' || key === 'Main Char. Name') && player[key].includes('-')}
+                <td><a href="https://raider.io/characters/eu/{player[key].split("-")[1]}/{player[key].split("-")[0]}" >{player[key]}</a></td>
+            {:else if key === 'Challenge Char. Name' || key === 'Main Char. Name'}
+                <td><a href="https://raider.io/characters/eu/Silvermoon/{player[key]}" >{player[key]}</a></td>
+            {:else}
+                <td>{player[key]}</td>
+            {/if}
+          {:else}
+            <td>-</td>
+          {/if}
         {/each}
     </tr>
     {/each}
