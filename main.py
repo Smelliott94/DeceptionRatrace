@@ -47,7 +47,7 @@ async def refresh_scores():
     async with aiohttp.ClientSession() as session:
         tasks = []
         for character in report:
-            tasks.append(asyncio.ensure_future(get_character_profile(session, character['Character'])))
+            tasks.append(asyncio.ensure_future(get_character_profile(session, character['Challenge Char. Name'])))
         profiles = await asyncio.gather(*tasks)
         print(profiles)
         for character, profile in zip(report, profiles):
