@@ -33,9 +33,8 @@ onMount(async () => {
     <th>Main Char. Name</th>
     <th>Main Char. Spec</th>
     <th>Rolled Spec</th>
-    <th>Challenge Char. Name</th>
     <th>Role</th>
-    <th>Character</th>
+    <th>Challenge Char. Name</th>
     <th>Score</th>
     </tr>
 </thead>
@@ -43,9 +42,9 @@ onMount(async () => {
     {#each players as player}
     <tr>
         {#each Object.keys(player) as key}
-        {#if key === 'Character' && player[key].includes('-')}
+        {#if key === 'Challenge Char. Name' && player[key].includes('-')}
             <td><a href="https://raider.io/characters/eu/{player[key].split("-")[1]}/{player[key].split("-")[0]}" >{player[key]}</a></td>
-        {:else if key === 'Character'}
+        {:else if key === 'Challenge Char. Name'}
             <td><a href="https://raider.io/characters/eu/Silvermoon/{player[key]}" >{player[key]}</a></td>
         {:else}
             <td>{player[key]}</td>
