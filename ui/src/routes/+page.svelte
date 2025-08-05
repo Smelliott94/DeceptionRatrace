@@ -3,24 +3,24 @@
   import { PUBLIC_API_URL } from "$env/static/public";
 
   interface Player {
-    Discord: string;
-    "Main Char. Name": string;
-    "Rolled Spec": string;
-    Role: string;
-    "Challenge Char. Name": string;
-    Score: number;
-    "Score Color": string;
-    Thumbnail: string;
+    discord: string;
+    main_name: string;
+    spec: string;
+    name: string;
+    score: number;
+    score_color: string;
+    thumbnail: string;
   }
-  type PlayerKey = keyof Player;
-  const headings: PlayerKey[] = [
-    "Discord",
-    "Main Char. Name",
-    "Rolled Spec",
-    "Role",
-    "Challenge Char. Name",
-    "Score",
+
+  // Map of Heading → Player key
+  const headings: { label: string; key: keyof Player | null }[] = [
+    { label: "Discord", key: "discord" },
+    { label: "Main Char. Name", key: "main_name" },
+    { label: "Rolled Spec", key: "spec" },
+    { label: "Challenge Char. Name", key: "name" },
+    { label: "Score", key: "score" },
   ];
+
   let players: Player[] = [];
 
   onMount(async () => {
@@ -29,8 +29,8 @@
       if (!response.ok) {
         throw new Error("Failed to fetch data");
       }
-      const data = await response.json();
-      players = data.sort((a: Player, b: Player) => b.Score - a.Score);
+      const data: Player[] = await response.json();
+      players = data.sort((a, b) => b.score - a.score);
     } catch (error) {
       console.error(error);
     }
@@ -52,35 +52,41 @@
   <thead>
     <tr>
       {#each headings as heading}
-        <th>{heading}</th>
+        <th>{heading.label}</th>
       {/each}
     </tr>
   </thead>
   <tbody>
     {#each players as player}
       <tr>
-        {#each headings as key}
-          {#if key === "Challenge Char. Name"}
+        {#each headings as heading}
+          {#if heading.key === "name"}
             <td>
               <img
-                src={player.Thumbnail}
-                alt="Thumbnail of {player[key]}"
+                src={player.thumbnail}
+                alt="Thumbnail of {player.name}"
                 width="24"
                 height="24"
                 style="vertical-align: middle; margin-right: 8px;"
               />
-              <a href={makeCharacterUrl(player[key])}>
-                {player[key]}
+              <a href={makeCharacterUrl(player.name)}>
+                {player.name}
               </a>
             </td>
-          {:else if key === "Main Char. Name"}
-            <td><a href={makeCharacterUrl(player[key])}>{player[key]}</a></td>
-          {:else if key === "Score"}
-            <td style="color: {player['Score Color']}">
-              {player[key]}
+          {:else if heading.key === "main_name"}
+            <td>
+              <a href={makeCharacterUrl(player.main_name)}>
+                {player.main_name}
+              </a>
             </td>
+          {:else if heading.key === "score"}
+            <td style="color: {player.score_color}">
+              {player.score}
+            </td>
+          {:else if heading.key}
+            <td>{player[heading.key] ?? "-"}</td>
           {:else}
-            <td>{player[key] ?? "-"}</td>
+            <td>-</td>
           {/if}
         {/each}
       </tr>
