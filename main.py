@@ -6,9 +6,11 @@ import asyncio
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
+
 class SpecResult(BaseModel):
     score: float
     color: str
+
 
 baseurl = "https://raider.io/api/v1/characters/profile?region=eu"
 
@@ -47,13 +49,13 @@ async def get_character_profile(session, character_name):
     return None
 
 
-def get_spec_score(profile, spec, season=2):
+def get_spec_score(profile, spec):
     with open("data/specs.json") as spec_map_file:
         spec_map = json.load(spec_map_file)
     spec_id = spec_map[spec]
     if profile:
         for season_data in profile["mythic_plus_scores_by_season"]:
-            return SpecResult(**season_data['segments'][spec_id])
+            return SpecResult(**season_data["segments"][spec_id])
     return None
 
 
@@ -65,19 +67,17 @@ async def refresh_scores():
             for character in report:
                 tasks.append(
                     asyncio.ensure_future(
-                        get_character_profile(
-                            session, character["Challenge Char. Name"]
-                        )
+                        get_character_profile(session, character["name"])
                     )
                 )
             profiles = await asyncio.gather(*tasks)
             print(profiles)
             for character, profile in zip(report, profiles):
                 if profile:
-                    score = get_spec_score(profile, character["Rolled Spec"])
+                    score = get_spec_score(profile, character["spec"])
                     character["Thumbnail"] = profile["thumbnail_url"]
-                    character["Score"] = score.score
-                    character["Score Color"] =  score.color
+                    character["score"] = score.score
+                    character["Score Color"] = score.color
             print(json.dumps(report, indent=2))
             await asyncio.sleep(300)
 

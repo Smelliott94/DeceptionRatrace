@@ -14,10 +14,10 @@
 
   // Map of Heading → Player key
   const headings: { label: string; key: keyof Player | null }[] = [
-    { label: "Discord", key: "discord" },
-    { label: "Main Char. Name", key: "main_name" },
-    { label: "Rolled Spec", key: "spec" },
-    { label: "Challenge Char. Name", key: "name" },
+    { label: "discord", key: "discord" },
+    { label: "main_name", key: "main_name" },
+    { label: "spec", key: "spec" },
+    { label: "name", key: "name" },
     { label: "Score", key: "score" },
   ];
 
@@ -31,6 +31,9 @@
       }
       const data: Player[] = await response.json();
       players = data.sort((a, b) => b.score - a.score);
+      players.forEach( (player) => {
+          console.log(player)
+      });
     } catch (error) {
       console.error(error);
     }
@@ -38,6 +41,7 @@
 
   // helper: build raider.io URL for a character string
   function makeCharacterUrl(charName: string) {
+    console.log(`charName ${charName}`)
     if (charName.includes("-")) {
       const [name, realm] = charName.split("-");
       return `https://raider.io/characters/eu/${realm}/${name}`;
@@ -57,18 +61,15 @@
     </tr>
   </thead>
   <tbody>
-    {#each players as player}
+    {#each players ?? [] as player}
+      {#if !player?.name}
+        {@debug player}
+      {/if}
+      {#if player}
       <tr>
         {#each headings as heading}
           {#if heading.key === "name"}
             <td>
-              <img
-                src={player.thumbnail}
-                alt="Thumbnail of {player.name}"
-                width="24"
-                height="24"
-                style="vertical-align: middle; margin-right: 8px;"
-              />
               <a href={makeCharacterUrl(player.name)}>
                 {player.name}
               </a>
@@ -90,6 +91,7 @@
           {/if}
         {/each}
       </tr>
+      {/if}
     {/each}
   </tbody>
 </table>
